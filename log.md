@@ -1,13 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 7, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I got through the first section of "The Modern Javascript Bootcamp (2019)" on 
+@udemy to refresh my memory on core Javascript concepts.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** It feels nice to get serious about coding again! I know I probably shouldn't include tutorials as part of my log, but I didn't want to wait until I finish the course to start the challenge. The hardest part is getting started again; therefore, I wanted to start as soon as possible! 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
